@@ -1,2 +1,2 @@
-FROM node:6.9.4
-MAINTAINER Adam Walz <adam@butter.ai>
+FROM node:6.10.3
+LABEL maintainer="Butter.ai <dev@butter.ai>"
